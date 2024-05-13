@@ -1,3 +1,7 @@
+--For coursera members, use the lik below to review:
+--https://app.mode.com/interaction_desing_mitz_202405/reports/3d4ee64158a1
+
+
 --This is the assignment of the SQL for Data science course in Coursera By UC Davis
 
 --We are running an experiment at an item-level, which means all users who visit will see the same page, but the layout of different item pages may differ.
